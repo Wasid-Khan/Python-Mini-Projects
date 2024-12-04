@@ -8,6 +8,8 @@ This repository currently includes the following mini-projects:
 1. [**ImageEditor**](#-imageeditor)
 2. [**YouTube Downloader**](#-youtube-downloader)
 3. [**PDFMerger**](#-pdfmerger)
+4. [**Calculator**](#-calculator)
+5. [**Shopping Cart**](#-shoppingcart)
 
 Each project is implemented as an independent module and provides detailed instructions for setup and usage.
 
@@ -54,6 +56,22 @@ A handy tool for merging multiple PDF files into a single document, powered by t
 - Python 3.x
 - PyPDF2 library (`pip install pypdf2`)
 
+---
+## **Calculator**
+A simple calculator taking operator and operands from the user and performs the operations.
+### Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+---
+## **Shopping Cart Application**
+A console based POS system allowing users to input items, and their prices. providing a receipt with items and total price to pay.
+### Features:
+- Items
+- Prices
+- Receipts Generation
+- Continous Running until quit by user
 ---
 
 ## 🛠️ **How to Contribute**
